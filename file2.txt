@@ -1,1 +1,1 @@
-another changes in second file using remote repo gitHub
+result of conflict resolving in file2.txt

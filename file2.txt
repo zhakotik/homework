@@ -1,1 +1,1 @@
-another text
+another changes in second file when on branch branch_test

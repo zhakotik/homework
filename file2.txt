@@ -1,1 +1,1 @@
-another changes in second file when on branch branch_test
+another changes in second file when on branch branch_new_test
